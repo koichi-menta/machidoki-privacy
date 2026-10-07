@@ -1,1 +1,8 @@
-# machidoki-privacy
+# まちどき
+
+「まちどき」は、待ち遠しいイベントを登録して、当日までの日数をカウントダウンするiPhoneアプリです。
+
+- [サポート・お問い合わせ](support.md)
+- [プライバシーポリシー](privacy.md)
+
+対応OS：iOS 17以降（iPhone）
